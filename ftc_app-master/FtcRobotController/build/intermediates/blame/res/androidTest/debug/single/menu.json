@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\menu_server.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\3672f75aca2d1e0afa7b4e90d01eefb2f9783618\\output\\res\\menu\\menu_server.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\main_menu.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\65b7bf8c0fdbabf231d79770f8040942e106c6ef\\output\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\ftc_robot_controller.xml",
+        "source": "C:\\ftc_app-master\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\menu\\ftc_robot_controller.xml"
+    }
+]
